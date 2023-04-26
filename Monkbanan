@@ -55,7 +55,7 @@
         updateBannerVisibility();
       }
 
-      var buildUrl = "Build";
+      var buildUrl = "https://github.com/GooseLoose0809/bananananaananananananan/tree/main/Build";
       var loaderUrl = buildUrl + "/fps test.loader.js";
       var config = {
         dataUrl: buildUrl + "/fps test.data",
